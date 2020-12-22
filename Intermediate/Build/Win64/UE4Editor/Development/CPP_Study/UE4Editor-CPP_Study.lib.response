@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CPP_Study.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\Projects\CPP_Study\Intermediate\Build\Win64\CPP_StudyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Epic Games\Projects\CPP_Study\Intermediate\Build\Win64\UE4Editor\Development\CPP_Study\CPP_Study.cpp.obj"
+"D:\Epic Games\Projects\CPP_Study\Intermediate\Build\Win64\UE4Editor\Development\CPP_Study\CPP_StudyGameModeBase.cpp.obj"
+"D:\Epic Games\Projects\CPP_Study\Intermediate\Build\Win64\UE4Editor\Development\CPP_Study\CPP_Study.init.gen.cpp.obj"
+"D:\Epic Games\Projects\CPP_Study\Intermediate\Build\Win64\UE4Editor\Development\CPP_Study\CPP_StudyGameModeBase.gen.cpp.obj"
+"D:\Epic Games\Projects\CPP_Study\Intermediate\Build\Win64\UE4Editor\Development\CPP_Study\Default.rc2.res"
+/OUT:"D:\Epic Games\Projects\CPP_Study\Intermediate\Build\Win64\UE4Editor\Development\CPP_Study\UE4Editor-CPP_Study.lib"
+/INCLUDE:IMPLEMENT_MODULE_CPP_Study

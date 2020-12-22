@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26Chaos",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CPP_Study",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

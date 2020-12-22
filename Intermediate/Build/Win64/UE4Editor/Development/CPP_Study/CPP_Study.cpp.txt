@@ -1,0 +1,2 @@
+D:\Epic Games\Projects\CPP_Study\Intermediate\Build\Win64\UE4Editor\Development\CPP_Study\Definitions.CPP_Study.h
+D:\Epic Games\Projects\CPP_Study\Source\CPP_Study\CPP_Study.h
